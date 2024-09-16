@@ -1,8 +1,8 @@
-# Predicting Next Word (Simple RNN)
+# Predicting Movie Sentiment(Simple RNN)
 
 ### Link to application:
 ```
-https://predicting-next-word.streamlit.app/
+https://predicting-sentiment.streamlit.app/
 ```
 
 ![](https://github.com/Singhyash9009/Simple-RNN-Predicting-Next-Word-/blob/main/Pred.png)
